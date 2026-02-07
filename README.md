@@ -1,5 +1,7 @@
 # 👋 Hello, GitHub World!
 
+#### ⚠️ Currently in the process of migrating to [Codeberg](https://codeberg.org/loukwn). Keeping this accout mostly to contribute to public repos on GitHub.
+
 ```kotlin
 val me = buildPerson {
     name = "Konstantinos Lountzis"
