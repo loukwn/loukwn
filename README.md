@@ -1,3 +1,3 @@
-## Why is this so empty?
+## ⚠️ Why is this so empty?
 
-#### ⚠️ Currently in the process of migrating to [Codeberg](https://codeberg.org/loukwn). Keeping this account mostly to contribute to public repos on GitHub.
+#### All my code has been migrated to [my Codeberg account](https://codeberg.org/loukwn). Keeping this account mostly to contribute to public repos on GitHub.
